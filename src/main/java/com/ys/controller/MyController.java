@@ -9,6 +9,6 @@ public class MyController {
     @ResponseBody
     @RequestMapping("/secondController")
     public String secondController(){
-        return "hello springboot02";
+        return "hello springboot02 sy";
     }
 }
